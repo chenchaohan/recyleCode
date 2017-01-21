@@ -1,2 +1,2 @@
 # recyleCode
-From now on, I want build my own reuse code repository
+From now on, I want build my own code repository which can be reuse for my work.
